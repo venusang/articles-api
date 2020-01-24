@@ -4,12 +4,7 @@ This is a ruby on rails API that I built following the tutorial "Pagination in E
 
 This is a Rails 6 example with Kaminari (https://github.com/amatsuda/kaminari).
 
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+# APP INFO
 
 - Ruby version 2.7
 - Rails 6.0
