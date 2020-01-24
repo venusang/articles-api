@@ -7,4 +7,4 @@ This is a Rails 6 example with Kaminari (https://github.com/amatsuda/kaminari).
 # APP INFO
 
 - Ruby version 2.7
-- Rails 6.0
+- Rails 6.0.2.1
