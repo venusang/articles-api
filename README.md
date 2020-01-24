@@ -8,3 +8,29 @@ This is a Rails 6 example with Kaminari (https://github.com/amatsuda/kaminari).
 
 - Ruby version 2.7
 - Rails 6.0.2.1
+
+## Prerequisites
+
+You will need the following things properly installed on your computer.
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/) (with npm)
+- [Ember CLI](https://ember-cli.com/)
+- [Google Chrome](https://google.com/chrome/)
+- Ruby version 2.7
+- Rails 5 and up (this uses 6.0.2.1)
+- The UI https://github.com/venusang/articles
+
+## Installation
+
+- `$ git clone git@github.com:venusang/articles-api.git`
+- `$ cd articles-api`
+- `$ bundle install`
+- `$ bin/rails db:migrate`
+- `$ bin/rails db:seed`
+- `$ bin/rails s --binding 0.0.0.0`
+
+## Running / Development
+
+- Verify this app is running by visiting http://localhost:3000/articles
+- Verify pagination is working by visiting http://localhost:3000/articles?page%5Bnumber%5D=3&page%5Bsize%5D=1
