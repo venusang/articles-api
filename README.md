@@ -36,5 +36,11 @@ You will need the following things properly installed on your computer.
 - Verify pagination is working by visiting http://localhost:3000/articles?page%5Bnumber%5D=3&page%5Bsize%5D=1
 
 ## Screenshots
-![Image of articles api]
-(https://github.com/venusang/articles-api/blob/master/app-screenshot-01.png)
+
+ ### http://localhost:3000/articles
+ 
+![Image of articles api](https://raw.githubusercontent.com/venusang/articles-api/master/app-screenshot-01.png)
+
+### http://localhost:3000/articles?page%5Bnumber%5D=3&page%5Bsize%5D=1
+ 
+![Image of articles api](https://raw.githubusercontent.com/venusang/articles-api/master/app-screenshot-02.png)
