@@ -33,7 +33,7 @@ You will need the following things properly installed on your computer.
 ## Running / Development
 
 - Verify this app is running by visiting http://localhost:3000/articles
-- Verify pagination is working by visiting http://localhost:3000/articles?page%5Bnumber%5D=3&page%5Bsize%5D=1
+- Verify pagination is working by visiting http://localhost:3000/articles?page%20Bnumber%20B=3&page%5Bsize%5D=1
 
 ## Screenshots
 
@@ -41,6 +41,6 @@ You will need the following things properly installed on your computer.
  
 ![Image of articles api](https://raw.githubusercontent.com/venusang/articles-api/master/app-screenshot-01.png)
 
-### http://localhost:3000/articles?page%5Bnumber%5D=3&page%5Bsize%5D=1
+### http://localhost:3000/articles?page%20Bnumber%20B=3&page%5Bsize%5D=1
  
 ![Image of articles api](https://raw.githubusercontent.com/venusang/articles-api/master/app-screenshot-02.png)
